@@ -1,4 +1,4 @@
-[!{MasterHead](https://www.canva.com/design/DAF6XtW1QDQ/view)]
+[![MasterHead](https://www.canva.com/design/DAF6XtW1QDQ/view)]
 <h1 align="center">Hi 👋, I'm Kiril</h1>
 <h3 align="center">A passionate Front-End Angular and React developer from Ukraine</h3>
 
